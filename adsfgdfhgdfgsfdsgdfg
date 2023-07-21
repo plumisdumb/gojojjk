@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://rare-gallery.com/fullwalls/11084-Satoru-Gojo-White-Hair-Blue-Eyes-Glasses-School.png);
+  --theme-background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed8f5d13-1beb-4c4e-9eed-82cd6f47a22e/def1sty-5900e6bd-c819-4c36-8e99-7734061a629a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VkOGY1ZDEzLTFiZWItNGM0ZS05ZWVkLTgyY2Q2ZjQ3YTIyZVwvZGVmMXN0eS01OTAwZTZiZC1jODE5LTRjMzYtOGU5OS03NzM0MDYxYTYyOWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CGJhtx7mQLo1Dp5z-xUkIh4VR_FUXb9sgzriG2v_ixU);
 
   /*
     Main Theme Color
